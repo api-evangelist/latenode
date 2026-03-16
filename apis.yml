@@ -1,0 +1,46 @@
+aid: latenode
+name: Latenode
+description: >-
+  Latenode is an enterprise-grade low-code integration and AI automation
+  platform with 600+ prebuilt SaaS integrations and native access to top-tier
+  LLMs. It combines the ease of no-code tools with the flexibility of low-code
+  development for building automated workflows.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automation
+  - Low-Code
+  - No-Code
+  - Integration
+  - AI Workflows
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/latenode/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: latenode:latenode
+    name: Latenode
+    description: >-
+      Latenode's low-code automation platform for building AI workflows with
+      600+ integrations and access to 400+ AI models.
+    humanURL: https://latenode.com
+    tags:
+      - Automation
+      - AI
+      - Integration
+    properties:
+      - type: Documentation
+        url: https://latenode.com/workflow-automation-for-developers
+      - type: Getting Started
+        url: https://latenode.com
+common:
+  - type: Website
+    url: https://latenode.com
+  - type: Documentation
+    url: https://latenode.com/workflow-automation-for-developers
+  - type: Blog
+    url: https://latenode.com/blog
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
