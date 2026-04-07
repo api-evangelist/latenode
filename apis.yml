@@ -8,11 +8,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - AI Workflows
   - Automation
+  - Integration
   - Low-Code
   - No-Code
-  - Integration
-  - AI Workflows
 url: >-
   https://raw.githubusercontent.com/api-evangelist/latenode/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -26,8 +26,8 @@ apis:
       600+ integrations and access to 400+ AI models.
     humanURL: https://latenode.com
     tags:
-      - Automation
       - AI
+      - Automation
       - Integration
     properties:
       - type: Documentation
