@@ -61,6 +61,24 @@ common:
     url: https://latenode.com/privacy-policy
   - type: TermsOfService
     url: https://latenode.com/terms-conditions
+  - type: Integrations
+    url: https://latenode.com/integrations
+integrations:
+  - name: HubSpot
+  - name: Slack
+  - name: ChatGPT
+  - name: Notion
+  - name: Salesforce
+  - name: Shopify
+  - name: Jira
+  - name: Stripe
+  - name: Business
+  - name: Development
+  - name: eCommerce
+  - name: HR
+  - name: IT & Security
+  - name: Others
+  - name: Workflow
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
