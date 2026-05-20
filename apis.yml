@@ -49,6 +49,10 @@ apis:
       - type: GettingStarted
         url: https://latenode.com
 common:
+  - type: GitHubOrganization
+    url: https://github.com/latenode-com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/latenode-com
   - type: Website
     url: https://latenode.com
   - type: Documentation
