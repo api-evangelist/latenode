@@ -49,6 +49,8 @@ apis:
       - type: GettingStarted
         url: https://latenode.com
 common:
+  - type: DomainSecurity
+    url: security/latenode-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/latenode-com
   - type: LinkedIn
