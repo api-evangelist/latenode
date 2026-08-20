@@ -25,6 +25,14 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/latenode.png
 tags:
+  - Artificial Intelligence
+  - AI Workflows
+  - Automation
+  - Integration
+  - Low-Code
+  - No-Code
+  - Webhook
+tags_raw:
   - AI
   - AI Workflows
   - Automation
@@ -49,6 +57,11 @@ apis:
     image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://latenode.com
     tags:
+      - Artificial Intelligence
+      - Automation
+      - Integration
+      - Webhook
+    tags_raw:
       - AI
       - Automation
       - Integration
