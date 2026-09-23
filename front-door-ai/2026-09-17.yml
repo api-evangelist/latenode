@@ -1,0 +1,36 @@
+# Front Door AI Index — latenode — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: latenode
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: latenode.com
+  final_host: latenode.com
+  ownership: own
+  owner: latenode
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 75
+  host_score: 75
+  density: 35.33
+  words: 2123
+  tiers:
+    agentic: 21
+    core: 47
+    model: 7
+  ambiguous: 51
+  top_terms:
+    AI: 41
+    agent: 26
+    automation: 24
+    AI agent: 10
+    LLMs: 6
+    Claude: 4
+    RAG: 3
+    AI assistant: 2
+    Gemini: 2
+    MCP: 2
+    copilot: 2
+    GPT: 1
