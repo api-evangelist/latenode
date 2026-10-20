@@ -1,10 +1,20 @@
-generated: '2026-10-14'
+generated: '2026-10-20'
 method: searched
+source:
+- freshbooks/integrations/freshbooks-integration-edges.yml
+- https://zapier.com/apps/latenode/integrations
+- https://n8n.io/integrations/latenode/
+- https://composio.dev/toolkits/latenode
+- https://monid.ai/tools/latenode
 checked:
 - freshbooks/integrations/freshbooks-integration-edges.yml
 - zoom/integrations/zoom-integration-edges.yml
-source:
-- freshbooks/integrations/freshbooks-integration-edges.yml
+- https://composio.dev/toolkits/latenode
+- https://monid.ai/tools/latenode
+- https://n8n.io/integrations/latenode/
+- https://zapier.com/apps/latenode/integrations
+summary: null
+marketplace_apps: []
 edges:
 - partner_name: FreshBooks (own)
   partner: freshbooks
@@ -40,3 +50,4 @@ edges:
   detected: '2026-10-18'
   detected_by: mirror-platform-listings.py
   category: Zoom app
+templates: []
