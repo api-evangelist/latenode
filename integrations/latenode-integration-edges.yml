@@ -13,6 +13,7 @@ checked:
 - https://monid.ai/tools/latenode
 - https://n8n.io/integrations/latenode/
 - https://zapier.com/apps/latenode/integrations
+- miro/integrations/miro-integration-edges.yml
 summary: null
 marketplace_apps: []
 edges:
@@ -50,4 +51,21 @@ edges:
   detected: '2026-10-18'
   detected_by: mirror-platform-listings.py
   category: Zoom app
+- partner_name: Miro (own)
+  partner: miro
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://miro.com/marketplace/latenode/
+  mirror_of: miro/integrations/miro-integration-edges.yml
+  apps:
+  - Latenode
+  listing_count: 1
+  detected: '2026-10-22'
+  detected_by: mirror-platform-listings.py
+  category: Miro app
 templates: []
